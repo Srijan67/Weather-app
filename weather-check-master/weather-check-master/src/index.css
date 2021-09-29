@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'HomepageBaukastenBook';
+  src: url(./fonts/HomepageBaukasten-Book.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'HomepageBaukastenBold';
+  src: url(./fonts/HomepageBaukasten-Bold.ttf) format('truetype');
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'HomepageBaukastenBook';
+  margin: 0;
+  font-size: 14px;
+}
