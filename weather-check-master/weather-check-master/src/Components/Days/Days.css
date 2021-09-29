@@ -1,0 +1,16 @@
+.days {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-bottom: 20px;
+    overflow-x: auto;
+}
+
+.dayCard {
+    text-align: center;
+    padding: 15px 10px;
+    margin-left: 20px;
+    flex: 0 0 auto;
+    background: var(--color-highlight);
+    border-radius: 15px;
+    /* border: 2px solid var(--color-primary); */
+}
