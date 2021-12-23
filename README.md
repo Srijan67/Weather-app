@@ -1,6 +1,6 @@
 # Weather-app
 
-It's uses rapid api to fetch DATA.
+This is a proper NODE EXPRESS WEATHER APP PROJECT WITH GREAT UI.
 
 
 
